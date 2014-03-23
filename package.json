@@ -1,0 +1,20 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.5.0",
+    "jade": "*",
+    "mongoose": "~3.8.8",
+    "async": "~0.2.10",
+    "casper": "~0.1.1",
+    "phantomjs": "~1.9.7-1",
+    "request": "~2.34.0",
+    "cheerio": "~0.13.1",
+    "zombie": "~2.0.0-alpha31",
+    "assert": "~1.1.1"
+  }
+}
